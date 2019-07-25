@@ -1,0 +1,852 @@
+{
+  "shipments": [
+    {
+      "id": "S1001",
+      "name": "Shanghai",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1002",
+      "name": "New Second collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1003",
+      "name": "New third spring collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1004",
+      "name": "New spring collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1005",
+      "name": "New spring collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1006",
+      "name": "New spring Six",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1007",
+      "name": "New collection Seven",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1008",
+      "name": "New spring Saarbrücker",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1009",
+      "name": "New spring Chairs",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1010",
+      "name": "New Furniture collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1011",
+      "name": "New spring collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1012",
+      "name": "New spring collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1013",
+      "name": "New spring collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1014",
+      "name": "New spring collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1015",
+      "name": "New spring collection",
+      "cargo": [
+        {
+          "type": "Furniture",
+          "description": "300 Tables",
+          "volume": "20"
+        },
+        {
+          "type": "Furniture",
+          "description": "1500 Chairs",
+          "volume": "15"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Ningbo port",
+      "services": [
+        {
+          "type": "customs"
+        },
+        {
+          "type": "insurance",
+          "value": "100"
+        }
+      ],
+      "total": "3000",
+      "status": "ACTIVE",
+      "userId": "U1002"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1016",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    }
+  ]
+}

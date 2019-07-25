@@ -1,0 +1,42 @@
+.fullDetails {
+  width: 450px;
+  margin: 0 auto;
+  text-align: left;
+}
+.fullDetails label {
+  margin: 0.5em;
+  border-bottom: 1px solid #333;
+  background: #333;
+  color: #fff;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.fullDetails span {
+  margin: 0.5em;
+}
+.fullDetails input {
+  padding: 5px 10px;
+  border: 2px solid #04a6ee;
+  font-size: 1em;
+}
+.cargoItems, .serviceItems, .basicDetails {
+  border: 5px solid #333;
+  margin-bottom: 10px;
+  padding: 10px 0;
+}
+.header-shipment-title {
+  color: #04a6ee;
+}
+.back-btn {
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid #333;
+  background: #333;
+  color: #fff;
+  font-size: 1em;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
